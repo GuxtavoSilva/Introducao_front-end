@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(174, 203, 241);
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(8, 100px);
+    grid-template-rows: repeat(8, 100px);
+    gap: 100px;
+    
+}
+.celula {
+    background-color: rgb(197, 241, 239);
+    border-radius: 5px;
+}
+.celula2 {
+    background-color: rgb(31, 33, 202);
+    border-radius: 5px;
+}

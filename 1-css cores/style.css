@@ -1,0 +1,17 @@
+#nome {
+    color:aqua;
+    background-color: (255, 0, 0, 0.1)
+}
+#hex {
+    color: #100148;
+}
+#rgb {
+    color: rgb(57, 30, 175)
+}
+#rgba {
+    color: rgba(red, green, blue, alpha);
+}
+#hsl {
+    color: hsl(244, 88%, 46%);
+    color: hsl(hue, saturation, lightness);
+}

@@ -1,0 +1,25 @@
+p {
+    color: blue;
+}
+
+.highlight {
+    color: rgb(18, 18, 230);
+    font-weight: bold;
+}
+
+#important {
+    color: red;
+}
+[type="text"] {
+    border: 2px solid red;
+}
+div.example {
+    background-color: yellow;
+}
+ul > li {
+    color: green;
+    list-style-type: square;
+}
+h2 ~ p {
+    font-style: italic;
+}

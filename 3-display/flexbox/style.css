@@ -1,0 +1,21 @@
+div div {
+    background-color: rgba(228, 15, 15, 0.829);
+    border: 1px solid;
+    color: white;
+}
+
+.container {
+    display: flex;
+}
+
+.item1 {
+    flex: 1;
+}
+
+.item2 {
+    flex: 2;
+}
+
+.item3 {
+    flex: 3;
+}

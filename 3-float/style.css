@@ -1,0 +1,15 @@
+#Cachorro1{
+    float: left
+}
+#Cachorro2{
+    float: right
+}
+p {
+    font-size: 30px;
+}
+.container {
+    width: 70vw;
+    margin-left: 13vw;
+    border: 7px solid;
+    padding: 20px;
+}

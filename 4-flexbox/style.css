@@ -1,0 +1,15 @@
+.container div {
+    background-color: palevioletred;
+    border: 5px solid;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    font-size: 10vh;
+}
+.container {
+    background-color: white;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

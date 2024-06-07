@@ -1,0 +1,26 @@
+.container {
+    margin: 10px;
+    background-color: #d87093;
+    height: 300px;
+    width: 500px;
+}
+.bloco {
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    position: fixed;
+    top: 150px;
+    left: 250px
+}
+
+.container2 {
+    margin: 10px;
+    background-color: #d33066;
+    height: 50vh;
+}
+.bloco2 {
+    background-color: rgb(29, 201, 52);
+    height: 20px;
+    width: 20px;
+    position: fixed;
+}

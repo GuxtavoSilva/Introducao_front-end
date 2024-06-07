@@ -1,0 +1,29 @@
+.grid-container {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: repeat(4, 200px);
+    grid-auto-rows: 50px;
+    gap: 10px;
+}
+.coluna1 {
+    grid-column: span 4;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.coluna2 {
+    grid-row: span 2;
+    grid-column: span 2;
+    background-color: rgb(53, 223, 223);
+    border-radius: 10px;
+}
+.coluna3 {
+    grid-column: span 2;
+    background-color: rgb(226, 7, 7);
+    border-radius: 10px;
+}
+.coluna4 {
+    grid-column: span 2;
+    background-color: rgb(39, 1, 255);
+    border-radius: 10px;
+}
